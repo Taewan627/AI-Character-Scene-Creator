@@ -4,8 +4,6 @@
 
 This tool goes beyond simple image generation. It empowers you to act like a movie director, giving you control over the character's clothing, hairstyle, actions, background, and even the cinematography to create your own unique visuals.
 
-![Project Demo GIF](https://your-gif-url-here.gif)
-*(Adding a project demo GIF or screenshot here is highly recommended.)*
 
 ---
 
