@@ -1,0 +1,5 @@
+{
+  "name": "AI Character Scene Creator",
+  "description": "An AI-powered tool to composite images. It dresses a main character in clothes from a reference image and adds a sub-character looking on from the side.",
+  "requestFramePermissions": []
+}
