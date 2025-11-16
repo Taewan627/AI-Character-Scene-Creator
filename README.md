@@ -4,7 +4,7 @@
 
 This tool goes beyond simple image generation. It empowers you to act like a movie director, giving you control over the character's clothing, hairstyle, actions, background, and even the cinematography to create your own unique visuals.
 
-
+https://huggingface.co/spaces/devmeta/AI-Character-Scene-Creator
 ---
 
 ## ✨ Key Features
@@ -35,10 +35,6 @@ This tool goes beyond simple image generation. It empowers you to act like a mov
 ## 🚀 Getting Started
 
 This project is configured to run directly from the browser without any build process.
-
-### Prerequisites
-
-*   **Google Gemini API Key**: You must have an API key from [Google AI Studio](https://aistudio.google.com/app/apikey).
 
 ### Installation and Running
 
